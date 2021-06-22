@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UshurbakiyevDavlat 
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning PHP and Laravel
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PHP & Laravel & VUE
+- 💞️ I’m looking for great expirience
 - 📫 How to reach me ... dushurbakiev@gmail.com, dav19us - instagram
 
 <!---
