@@ -8,7 +8,7 @@ I have been learning code for 3 years and finished several projects with help fo
 
 * 🌍  I'm based in Almaty,Kazakhstan
 * ✉️  You can contact me at [dushurbakiev@gmail.com](mailto:dushurbakiev@gmail.com)
-* 🚀  I'm currently working on [Your Dev Team Global](http://ydt-global.com/)
+* 🚀  I'm currently working on [Tredo KZ](https://tredo.co/)
 * 🧠  I'm learning Laravel, VueJS, Docker, Linux, Redis
 * 🤝  I'm open to collaborating on Interesting and poweful projects
 
