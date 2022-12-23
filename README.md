@@ -1,7 +1,6 @@
 Hi 👋 My name is Davlatbek Ushurbakiyev
 =======================================
-
-PHP - Laravel developer
+Backend developer
 -----------------------
 
 I have been learning code for 3 years and finished several projects with help for different web technologies.
