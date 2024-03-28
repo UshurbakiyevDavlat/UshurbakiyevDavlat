@@ -3,7 +3,7 @@ Hi 👋 My name is Davlatbek Ushurbakiyev
 Backend developer
 -----------------------
 
-I have been learning code for 3 years and finished several projects with help for different web technologies.
+I have been learning code for 4 years and finished several projects with help for different web technologies.
 
 * 🌍  I'm based in Almaty,Kazakhstan
 * ✉️  You can contact me at [dushurbakiev@gmail.com](mailto:dushurbakiev@gmail.com)
