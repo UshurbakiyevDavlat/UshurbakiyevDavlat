@@ -7,7 +7,7 @@ I have been learning code for 4 years and finished several projects with help fo
 
 * 🌍  I'm based in Almaty,Kazakhstan
 * ✉️  You can contact me at [dushurbakiev@gmail.com](mailto:dushurbakiev@gmail.com)
-* 🚀  I'm currently working on [Freedom finance](https://ffin.kz)
+* 🚀  I'm currently working on [Pinemelon](https://pinemelon.com/)
 * 🧠  I'm learning everyday!
 * 🤝  I'm open to collaborating on Interesting and poweful projects
 
